@@ -18,7 +18,10 @@
 #include <locale.h>
 #include <winsock2.h>
 #include <windows.h>
+<<<<<<< HEAD
 #include "auth.h"
+=======
+>>>>>>> 22517f3359c7fb66249c4c6430fbfca0a6d55766
 
 int main(void)
 {
